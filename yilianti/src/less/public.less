@@ -1,0 +1,121 @@
+
+// 导航栏
+#yiL_nav {
+	background-color: #444;
+	transition: all .3s;
+	.navbar {
+		margin: 0;
+		border: none;
+		background-color: transparent;
+		.navbar-header {
+			.navbar-text {
+				color: #fff;
+				font-size: 32px;
+	   			line-height: 48px;
+				font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+				.navbar-link {
+					color: #2BC3AC;
+					text-decoration: none;
+				}
+			}
+			.navbar-toggle {
+				margin-top: 20px;
+			}
+		}
+		.collapse {
+			.nav {
+				margin: 20px 0 0 0;
+			    box-shadow: 0 0 5px #888;
+			    border: 1px solid #888;
+				position: relative;
+				padding: 0;
+				li {
+					width: 90px;
+					height: 40px;
+					text-align: center;
+					a {
+						color: #fff;
+						line-height: 40px;
+						padding: 0;
+						z-index: 100;
+					}
+				}
+				.actscroll {
+					z-index: 0;
+				    background-color: #2BC3AC;
+				    transition: all .5s;
+					position: absolute;
+					top: 0;
+					left: 0;
+				}
+			}
+		}
+	}
+}
+
+// 公共二级标题
+.public-title {
+	h2 {
+		padding: 20px 0;
+	    text-align: center;
+	    color: #666;
+	}
+	h2::after {
+	    width: 50px;
+	    height: 2px;
+	    display: block;
+	    content: "";
+	    margin: 20px auto 0;
+	    background-color: #2FC1AC;
+	}
+	   
+}
+
+// 公共图文介绍样式
+.public-introduction {
+	text-align: center;
+	padding-top: 25px;
+	border-radius: 5px;
+	.PI-art-title {
+		margin-top: 30px;
+		h3 {
+			font-size: 18px;
+		}
+		p {
+			color: #CCC;
+		}
+	}
+	> p {
+		text-align: justify;
+		padding: 0 50px 50px;
+	    color: #888;
+	    line-height: 1.6;
+	    margin-bottom: 10px;
+	}
+}
+.public-introduction:hover {
+	box-shadow: 0 0 10px #888;
+	background-color: #fff;
+	transition: all 0.5s;
+}
+
+// 页面底部
+#yiL_footer_copy {
+	text-align: center;
+	padding: 40px 0 20px;
+	background: url(../images/footer.jpg);
+	.list-group {
+		.list-group-inline {
+			color: #fff;
+			padding: 15px 15px;
+			text-decoration: none;
+		}
+		.list-group-inline:hover {
+			color: #2FC1AC;
+		}
+	}
+	p {
+		color: #605f5f;
+		font-size: 12px;
+	}
+}

@@ -1,0 +1,86 @@
+
+// 项目介绍
+#prot_intdct {
+	.introduct-panel {
+		padding-top: 20px;
+		.panel {
+			.panel-heading {
+				color: #fff;
+				background-color: #C52724;
+			}
+			.panel-body {
+				height: 250px;
+				padding: 0 0 0 10px;
+				background-color: #ccc;
+				p {
+					cursor: pointer;
+					span {
+						display: inline-block;
+						font-size: 20px;
+						color: #C52724;
+						margin-right: 10px;
+						transform: rotateZ(45deg) translateY(3px);
+					}
+				}
+				.active {
+					color: #C52724;
+				}
+			}
+		}
+	}
+	.prodct-main {
+		.public-title {
+			width: 95%;
+			text-align: left;
+			padding: 0;
+			margin-left: 15px;
+			h2 {
+				padding-bottom: 10px;
+				font-size: 16px;
+				small {
+					font-size: 16px;
+				}
+				span {
+					float: right;
+					color: #ccc;
+					font-size: 25px;
+				}
+			}
+			p {
+				margin-left: 0;
+			}
+		}
+		ul {
+			li {
+				padding: 20px;
+				.module-caption {
+					overflow: hidden;
+					border-radius: 10px;
+					text-align: center;
+					background-color: #f3f3f3;
+					// border: 1px solid red;
+					@media screen and (max-width: 768px) {
+						img {
+							width: 100%;	
+							height: 140px;
+						}
+						p {
+							height: 30px;
+							line-height: 30px;
+						}
+					}
+					@media screen and (min-width: 768px) {
+						img {
+							width: 100%;	
+							height: 190px;
+						}
+						p {
+							height: 40px;
+							line-height: 40px;
+						}
+					}
+				}
+			}
+		}
+	}
+}
