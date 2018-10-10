@@ -1,8 +1,8 @@
 # Welcome to my block 
 ##                欢迎来到我的博客
-![img][https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=467201787,1425642994&fm=26&gp=0.jpg]
 You can use the [editor on GitHub](https://github.com/baiyis/baiyis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+![img][https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=467201787,1425642994&fm=26&gp=0.jpg]
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 练习过的页面
