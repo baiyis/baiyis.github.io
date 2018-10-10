@@ -7,25 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 练习过的页面
 * [宏大地产](https://baiyis.github.io/hongdadichan/src/html/index.html)
+* [医联体](https://baiyis.github.io/yilianti/dist/html/index.html)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 欢迎来到我的博客
-## 为什么不显示
-### Header 3
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
