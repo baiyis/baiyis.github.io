@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/baiyis/baiyis.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 废了老大劲才会使用的，且用且珍惜
+### 练习过的页面
+* [宏大地产](https://baiyis.github.io/hongdadichan/src/html/index.html)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +25,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[宏大地产](https://baiyis.github.io/hongdadichan/src/html/index.html)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
