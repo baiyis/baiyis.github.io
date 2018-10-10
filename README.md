@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 练习过的页面
 
-* [宏大地产](https://baiyis.github.io/hongdadichan/src/html/index.html)
-* [医联体](https://baiyis.github.io/yilianti/dist/html/index.html)
+1. [宏大地产](https://baiyis.github.io/hongdadichan/src/html/index.html)
+2. [医联体](https://baiyis.github.io/yilianti/dist/html/index.html)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
