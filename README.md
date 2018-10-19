@@ -27,3 +27,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 * 如果建筑工人盖房子的方式跟程序员写程序一样，那第一只飞来的啄木鸟就将毁掉人类文明。
 * 最初的90%的代码用去了最初90%的开发时间。余下的10%的代码用掉另外90%的开发时间
 * 科学与技术彻底改变了生活，但记忆、传统和神话限定了我们的反应。——阿瑟·施莱辛格（Arthur Schlesinger），历史学家
+``` html
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+            <a class="bds_qzone"></a>
+            <a class="bds_tsina"></a>
+            <a class="bds_tqq"></a>
+            <a class="bds_renren"></a>
+            <span class="bds_more">更多</span>
+        </div>
+        <div></div>
+        <script type="text/javascript" id="bdshare_js" data="type=tools" ></script>
+        <script type="text/javascript" id="bdshell_js"></script>
+        <script type="text/javascript">
+        	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + Math.ceil(new Date()/3600000);</script>
+``` html
