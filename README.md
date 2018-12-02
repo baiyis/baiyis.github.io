@@ -16,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### 主题公馆
-1. [ideaActive](https://baiyis.github.io/ideaActive)
+1. [ideaActive](https://baiyis.github.io/idea-activeCode)
 
 ### 诲人不倦三千里
 * 你的时间有限，所以别浪费时间去过别人的生活。——史蒂夫·乔布斯（Steve Jobs）
